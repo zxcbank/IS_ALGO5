@@ -1,3 +1,0 @@
-C:/itmo/AISD/IS_ALGO5/cmake-build-debug/CMakeFiles/IS_ALGO5.dir
-C:/itmo/AISD/IS_ALGO5/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/itmo/AISD/IS_ALGO5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
